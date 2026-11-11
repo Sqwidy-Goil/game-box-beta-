@@ -1,2 +1,2 @@
-# game-box-beta-
+index.html
 game native platform
